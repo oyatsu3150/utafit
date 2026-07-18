@@ -89,6 +89,6 @@ AIには、要件整理、データ型と画面構成の案出し、実装のた
 
 ## 8. 提出リンク
 
-- 自作アプリ：公開後のURLを記入
-- 制作ブログ：自作アプリURLの末尾に`/project-story`
-- GitHubリポジトリ：公開後のURLを記入
+- 自作アプリ：https://utafit-voice-match-2026.oyatsu3280.chatgpt.site
+- 制作ブログ：https://utafit-voice-match-2026.oyatsu3280.chatgpt.site/project-story
+- GitHubリポジトリ：https://github.com/oyatsu3150/utafit
