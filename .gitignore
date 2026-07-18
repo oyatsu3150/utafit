@@ -1,0 +1,12 @@
+node_modules/
+.next/
+dist/
+.wrangler/
+.pnpm-store/
+coverage/
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
